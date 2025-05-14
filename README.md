@@ -20,10 +20,14 @@
 </div>
 
 ## ✨ Featured Projects  
+
 - 🚗 **Dijkstra's Pathfinding Algorithm**  
   A project developed for a university assignment, implementing **Dijkstra's algorithm** to calculate the shortest route based on tolls, distance (km), and fuel consumption per vehicle.  
   > [Check it out here](https://github.com/juliauser/dijkstra)
 
+- 🍒 **KittenKnight**  
+  Kitten Knight is a mini platform game developed in Python with PgZero. And the goal? Collect all the cherries while dodging mischievous enemies that patrol the scene! 
+  > [Check it out here](https://github.com/juliauser/kittenknight)
 
 ## ⭐ my favorite anime <3 Hunter x Hunter
 
