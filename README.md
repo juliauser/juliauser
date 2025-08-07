@@ -3,7 +3,7 @@
 
 **`backend developer`**
 
-- 🎈 **hello world!** I'm Julia, a 21-years-old Computer Science student at Unisul (currently in my 6th semester).
+- 🎈 **hello world!** I'm Julia, a 22-years-old Computer Science student at Unisul (currently in my 6th semester).
 - 👁‍🗨 passionate about technology, backend development, cybersecurity and problem-solving (but always exploring new tech).
 - 🎮 gamer at heart, but when I'm not coding you might find me crocheting or dancing!
 
