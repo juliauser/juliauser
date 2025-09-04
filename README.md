@@ -29,6 +29,10 @@
   Kitten Knight is a mini platform game developed in Python with PgZero. And the goal? Collect all the cherries while dodging mischievous enemies that patrol the scene! 
   > [Check it out here](https://github.com/juliauser/kittenknight)
 
+- 🍒 **recomendando-filmes**
+  Simple Flask web application that recommends movies based on a user-entered movie, using an API from The Movie Database (TMDB).
+  > [Check it out here]([https://github.com/juliauser/kittenknight](https://github.com/juliauser/recomendando-filmes))
+
 ## ⭐ my favorite anime <3 Hunter x Hunter
 
 <div style="background-color:rgb(71, 25, 90, 0.7); padding: 20px; border-radius: 17px; display: flex; align-items: center;">
