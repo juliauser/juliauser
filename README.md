@@ -31,7 +31,7 @@
 
 - 🍒 **recomendando-filmes**
   Simple Flask web application that recommends movies based on a user-entered movie, using an API from The Movie Database (TMDB).
-  > [Check it out here]([https://github.com/juliauser/kittenknight](https://github.com/juliauser/recomendando-filmes))
+  > [Check it out here](https://github.com/juliauser/recomendando-filmes)
 
 ## ⭐ my favorite anime <3 Hunter x Hunter
 
